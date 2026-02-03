@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Hi there, I'm Noam! 👋<br>🚀 Junior DevOps Engineer | 💻 I practice automation, cloud, and infrastructure<br><br>🔭 I’m currently working on DevOps projects to enhance my skills in CI/CD, containerization, and cloud deployment.<br>📚 Always learning new technologies, currently exploring GCE, Kubernetes, and Argo.<br>⚡ In my free time, I build personal projects, contribute to open-source, and tinker with automation scripts.</p>
+<p align="left">Hi there, I'm Noam! 👋<br>🚀 DevOps Engineer | 💻 I practice automation, cloud, and infrastructure<br><br>🔭 I’m currently working on DevOps projects to enhance my skills in CI/CD, containerization, and cloud deployment.<br>📚 Always learning new technologies, currently exploring GCE, Kubernetes, and Argo.<br>⚡ In my free time, I build personal projects, contribute to open-source, and tinker with automation scripts.</p>
 
 ###
 
